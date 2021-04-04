@@ -11,9 +11,6 @@ public class Main {
         flipNHeads(1);
         clock();
 
-
-
-
     } // end main()
 
 
