@@ -1,4 +1,4 @@
-package com.Main;
+//package com.Main;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -10,7 +10,6 @@ public class Main {
         pluralize("dog", 1);
         flipNHeads(1);
         clock();
-
     } // end main()
 
 
