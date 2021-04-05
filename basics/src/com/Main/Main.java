@@ -10,7 +10,6 @@ public class Main {
         pluralize("dog", 1);
         flipNHeads(1);
         clock();
-
     } // end main()
 
 
