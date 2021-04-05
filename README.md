@@ -17,3 +17,23 @@
 3- Command Line Clock:the method clock () that uses Java’s built-in LocalDateTime object to constantly print out the current time to the console, second by second. The program should run until someone manually kills it with CTRL-C or presses the “stop” button .
 ### ex : if we call   clock(); .... the result 18:28:23        18:28:24
 
+<hr>
+
+# Lab: 02 - Arrays, for loops, testing
+## This lab is dedicated to practicing Java Arrays, for loops, testing. 
+
+# Feature Tasks:
+1- Rolling Dice:the method roll () that accepts an integer number and rolls a six-sided dice n times. The method should return an array containing the values of the rolls
+### ex : if we call  roll(4) .... the result [3, 2, 1, 5]
+
+
+2- Contains Duplicates:the method containsDuplicat ()  that returns true or false depending on whether the array contains duplicate values.
+
+
+
+
+3- Calculating Averages:the method calculating Averages()  that accepts an array of integers and calculates and returns the average of all the values in the array.
+
+4- Arrays of Arrays:the method arraysOfArrays()calculate the average value for each array and return the array with the lowest average.
+
+
